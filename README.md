@@ -7,6 +7,7 @@ Little knowledge base for [www.golang.org](http://www.golang.org) sample codes.
 ## Databases
 
 ### MongoDB
+* [https://github.com/parallelo-ai/go-simple-mgo](https://github.com/parallelo-ai/go-simple-mgo) Sample of [MGO](https://github.com/globalsign/mgo) to work with MongoDB
 
 ### SQL
 

@@ -19,4 +19,4 @@ The implementations so far cover the topics of,
 
 ## HTTP Servers
  * [https://github.com/parallelo-ai/go-http-server-stdlib](https://github.com/parallelo-ai/go-http-server-stdlib) standard library implementation
- * [https://github.com/Daniel-M/go-http-server-gmux](https://github.com/Daniel-M/go-http-server-gmux) implementation of the [gorilla/mux](https://github.com/gorilla/mux) router.
+ * [https://github.com/parallelo-ai/go-http-server-gmux](https://github.com/parallelo-ai/go-http-server-gmux) implementation of the [gorilla/mux](https://github.com/gorilla/mux) router.
